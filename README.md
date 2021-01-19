@@ -13,4 +13,4 @@ First the code creates a new node and publisher to /cmd_vel in the __init__ sect
 
 ### Drive in Square Demo
 
-![gif of robot test](/driveinsquarenew.gif)
+![gif of robot test](/driveinsquaregifnew.gif)
